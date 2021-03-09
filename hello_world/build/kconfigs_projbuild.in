@@ -1,0 +1,4 @@
+source "/home/xinglei/work/espdevdir/esp-idf/components/app_update/Kconfig.projbuild"
+source "/home/xinglei/work/espdevdir/esp-idf/components/bootloader/Kconfig.projbuild"
+source "/home/xinglei/work/espdevdir/esp-idf/components/esptool_py/Kconfig.projbuild"
+source "/home/xinglei/work/espdevdir/esp-idf/components/partition_table/Kconfig.projbuild"
